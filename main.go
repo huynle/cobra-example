@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/dharmeshkakadia/cobra-example/cmd"
+import "github.com/huynle/cobra-example/cmd"
 
 func main() {
 	cmd.Execute()
